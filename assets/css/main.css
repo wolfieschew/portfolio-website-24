@@ -523,6 +523,10 @@ section,
   justify-content: center;
 }
 
+.hero span {
+  color: #0563bb;
+}
+
 .hero img {
   position: absolute;
   inset: 0;
